@@ -1,4 +1,4 @@
-# 
+# Get the ultimate Polymarket bot with automatic bot for Polymarket - arbitrage-detection and risk-management. Featuring arbitrage-detection and risk-management, it's the best
 
 
 
